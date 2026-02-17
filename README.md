@@ -28,8 +28,7 @@ https://play.unity.com/en/games/43c3536c-2135-4989-845f-005fd2b29053/newwebgl
 
 ## 🗂️ Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksbiX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksbiX&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MaksbiX&show_icons=true&theme=radical)
 
 ---
 
